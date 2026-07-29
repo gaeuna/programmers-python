@@ -1,4 +1,4 @@
-# 첫번째로 나오는 음수 찾
+# 첫번째로 나오는 음수 찾기
 
 - 링크: (https://school.programmers.co.kr/learn/courses/30/lessons/181896)
 - 난이도: Lv.0
